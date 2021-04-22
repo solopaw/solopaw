@@ -8,7 +8,6 @@
  - javascript
  - swift
  - csharp
--
 - Hope You Enjoyed My Profile
 
 <!---
